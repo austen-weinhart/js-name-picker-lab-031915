@@ -1,0 +1,33 @@
+div {
+	/*border: 1px solid red;*/
+	margin: 0 auto;
+	width: 85%;
+  text-align: center;
+}
+
+
+body {
+	background-color: rgb(102, 86, 101);
+  color: white;
+  font-family: Marcellus;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  /*box-shadow: 10px 10px 5px #888888;*/
+  border: 10px solid white;
+  border-radius: 50%;
+}
+
+button {
+  color: black;
+  margin-top: 10px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+#button {
+	margin: 0 auto;
+	text-align: center;
+}
